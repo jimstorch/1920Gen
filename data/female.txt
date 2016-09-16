@@ -281,7 +281,6 @@ Ila
 Corinne
 Alvina
 Lily
-Cecil
 Audrey
 Lura
 Pearlie
@@ -453,7 +452,6 @@ Savannah
 Esta
 Peggy
 Elda
-William
 Dixie
 Beryl
 Iris
@@ -537,7 +535,6 @@ Gail
 Delphia
 Altha
 Magdalene
-James
 Letitia
 Sybil
 Carmela
@@ -615,7 +612,6 @@ Kathrine
 Signe
 Libbie
 Yetta
-Charles
 Mercedes
 Rosanna
 Arlene

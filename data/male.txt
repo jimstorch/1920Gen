@@ -607,7 +607,6 @@ Minnie
 Duncan
 Bailey
 Richmond
-Elizabeth
 Rubin
 Orin
 Helen
@@ -798,13 +797,10 @@ Felipe
 Alf
 Alvis
 Bee
-Bernice
 Benedict
 Ida
 Isidore
-Clara
 Baxter
-Edna
 Nolan
 Loy
 Alois
