@@ -281,7 +281,7 @@ for x in range(200):
 
     c = Character1920()
     c.sex('Female')
-    c.name(male_name())
+    c.name(female_name())
     p.add_character(c)
 
 p.save_pdf()
